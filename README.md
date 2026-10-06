@@ -6,8 +6,8 @@
 I turn complex workflows into clear, thoughtful digital experiences.
 
 [Portfolio](https://andresanjaya.framer.website) ·
-[LinkedIn](YOUR_LINKEDIN_URL) ·
-[Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/andresanjaya/) ·
+[Email](mailto:andresanjaya2506@gmail.com)
 
 </div>
 
@@ -19,18 +19,6 @@ Curiosity is at the center of how I work. I like understanding how people think,
 
 I work across research, user flows, interaction design, prototyping, and design systems—collaborating with stakeholders and developers to bring ideas into implementation.
 
-## Selected work
-
-| Project | Focus | Explore |
-|---|---|---|
-| **Badung Sehat** | Public health services and multi-role workflows | [View case study](YOUR_CASE_STUDY_URL) |
-| **SIMRS Giri Asih** | Healthcare information systems and clinical workflows | [View case study](YOUR_CASE_STUDY_URL) |
-| **Hemodialysis EMR** | Making clinical information and actions easier to scan | [View case study](YOUR_CASE_STUDY_URL) |
-
-<!-- Optional: replace this table with linked project-cover images -->
-<!--
-[![Badung Sehat case study](./assets/badung-sehat-cover.png)](YOUR_CASE_STUDY_URL)
--->
 
 ## What I bring to a project
 
